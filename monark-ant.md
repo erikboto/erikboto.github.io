@@ -14,5 +14,27 @@ Monark-ANT är ett program ger nyare monarkcyklar stöd för ANT+.
 
 # Vilken funktionalitet stöd över ANT+?
 
-Monark-ANT stöder två ANT+-profiler. ANT+ Bike Power, vilket innebär att det sänder
-effekt och kadens precis som en vanlig effektmätare skulle göra.
+Monark-ANT stöder två ANT+-profiler, ANT+ Bike Power samt ANT+ FE-C
+
+## ANT+ Bike Power
+
+Bike Power profilen används för att sända aktuell effekt och kadens
+på samma sätt som t ex en vanlig effektmätare kan göra.
+
+## ANT+ FE-C
+
+FE-C (Fitness Equipment - Control) profilen används när man vill
+kunna styra effekten från t ex TrainerRoad, Zwift eller en nyare 
+cykeldator. 
+
+Det finns två olika lägen som man kan använda, ett där man styr
+önskad effekt och ett där man styr ett antal simulationsparametrar
+som t ex lutning och luftmotstånd för att simulera utomhuskörning.
+Eftersom det inte finns växlar eller något bakhjul som har en
+hastighet så har inte simuleringsläget så stor relevans för en
+monarkcykel och stöds därför inte. Zwift använder i vanliga fall
+simuleringsläget för att ge den bästa upplevelsen, men är ändå 
+användsbart i "Workout Mode" där den styr önskad effekt. Man kan
+också använda Zwift ihop med ANT+ Bike Power, men då får man styra
+önskad effekt. Så det blir inte tyngre när man kommer till en backe.
+
