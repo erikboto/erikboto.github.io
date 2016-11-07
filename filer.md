@@ -14,6 +14,7 @@ Aktuell version (1) finns [här][rpi2-v1].
 
 # Windows
 Aktuell version (3) för Windows 64-bit finns [här][win-64-v3].
+
 Aktuell version (3) för Windows 32-bit finns [här][win-32-v3].
 
 
