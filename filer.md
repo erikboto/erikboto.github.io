@@ -9,7 +9,7 @@ permalink: /filer/
 # Raspberry Pi 3
 Aktuell version (1) finns [här][rpi3-v1].
 
-Aktuell version (1) med stöd för bluetooth finns [här][rpi3-bttest]. Fungerar med Zwift, men inte med t ex Polar V650 (än). Denna version sänder både ANT+ och bluetooth.
+Test version med stöd för bluetooth finns [här][rpi3-bttest]. Fungerar med Zwift, men inte med t ex Polar V650 (än). Denna version sänder både ANT+ och bluetooth.
 
 # Raspberry Pi 2
 Aktuell version (1) finns [här][rpi2-v1].
