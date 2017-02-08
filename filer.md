@@ -8,6 +8,7 @@ permalink: /filer/
 
 # Raspberry Pi 3
 Aktuell version (1) finns [här][rpi3-v1].
+
 Aktuell version (1) med stöd för bluetooth finns [här][rpi3-bttest]. Fungerar med Zwift, men inte med t ex Polar V650 (än).
 
 # Raspberry Pi 2
