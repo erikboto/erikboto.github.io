@@ -38,3 +38,6 @@ användsbart i "Workout Mode" där den styr önskad effekt. Man kan
 också använda Zwift ihop med ANT+ Bike Power, men då får man styra
 önskad effekt. Så det blir inte tyngre när man kommer till en backe.
 
+## Vilken funktionalitet stöd över Bluetooth?
+
+Det som sänds över Bluetooth är effekt samt kadens, och det över effektmätarprofilen. Det fungerar bra med Zwift, men en användare av en Polar V650 har rapporterat att den rapporterar fel efter ca 30 s med meddelande om att den tappat signal från ena sidan precis som om den förväntar sig en dubbelsidig mätning.
