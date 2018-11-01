@@ -7,7 +7,7 @@ permalink: /filer/
 ## Här kan du hitta aktuella versioner av mjukvaran
 
 # Raspberry Pi 3
-Aktuell version (2) finns [här][rpi3-v2].
+Aktuell version (2) finns [här][rpi3-v2].  
 Testversion med stöd för puls över BT finns [här][rpi3-v3rc1]
 
 
