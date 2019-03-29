@@ -11,11 +11,10 @@ Version med stöd för puls över BT (nu med unikt ID med i namnet) samt stöd f
 
 Jag fick låna en Polar M450 att testa lite med, och fick till effektmätning men inte kadens. Det finns två olika images, en där puls från Monarken också sänds ut via BT och en där det inte görs. De flesta som har Polar kör väl med pulsband som stöder BT och behöver kanske inte den funktionen.
 
-Polar-version med puls finns [här][rpi3-polar-hrm].
+Polar-version med puls finns [här][rpi3-polar-hrm].  
 Polar-version med utan puls finns [här][rpi3-polar-no-hrm].
 
-Tidigare versioner:
-
+Tidigare versioner:  
 Version (2) finns [här][rpi3-v2].  
 BT-testversion  [här][rpi3-bttest].
 
@@ -25,8 +24,7 @@ Version (1) finns [här][rpi3-v1].
 Aktuell version (1) finns [här][rpi2-v1].
 
 # Windows
-Aktuell version (3) för Windows 64-bit finns [här][win-64-v3].
-
+Aktuell version (3) för Windows 64-bit finns [här][win-64-v3].  
 Aktuell version (3) för Windows 32-bit finns [här][win-32-v3].
 
 
