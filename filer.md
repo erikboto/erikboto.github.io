@@ -7,8 +7,7 @@ permalink: /filer/
 ## Här kan du hitta aktuella versioner av mjukvaran
 
 # Raspberry Pi 3
-Aktuell version (2) finns [här][rpi3-v2].  
-Testversion med stöd för puls över BT (nu med unikt ID med i namnet) samt stöd för Raspberry Pi 3B+ finns [här][rpi3-v3rc3]
+Version med stöd för puls över BT (nu med unikt ID med i namnet) samt stöd för Raspberry Pi 3B+ finns [här][rpi3-v3rc3]
 
 Jag fick låna en Polar M450 att testa lite med, och fick till effektmätning men inte kadens. Det finns två olika images, en där puls från Monarken också sänds ut via BT och en där det inte görs. De flesta som har Polar kör väl med pulsband som stöder BT och behöver kanske inte den funktionen.
 
@@ -17,6 +16,7 @@ Polar-version med utan puls finns [här][rpi3-polar-no-hrm].
 
 Tidigare versioner:
 
+Version (2) finns [här][rpi3-v2].  
 BT-testversion  [här][rpi3-bttest].
 
 Version (1) finns [här][rpi3-v1].
