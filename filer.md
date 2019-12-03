@@ -6,6 +6,9 @@ permalink: /filer/
 
 ## Här kan du hitta aktuella versioner av mjukvaran
 
+# Raspberry Pi 4
+En version för Raspberry Pi 4 finns [här][rpi4-v1].
+
 # Raspberry Pi 3
 Version med stöd för puls över BT (nu med unikt ID med i namnet) samt stöd för Raspberry Pi 3B+ finns [här][rpi3-v3rc3]
 
@@ -38,3 +41,4 @@ Aktuell version (3) för Windows 32-bit finns [här][win-32-v3].
 [rpi3-bttest]: http://linode.unixshell.se/monark/image-monark-raspberrypi3-bt-test.zip
 [rpi3-v3rc1]: http://linode.unixshell.se/monark/image-monark-raspberrypi3_v3-rc1.zip
 [rpi3-v3rc3]: http://linode.unixshell.se/monark/image-monark-raspberrypi3_v3-rc3.zip
+[rpi4-v1]: http://linode.unixshell.se/monark/image-monark-raspberrypi4_v1.zip
