@@ -9,8 +9,8 @@ permalink: /filer/
 # Testversion med stöd för Bluetooth FTMS protokoll
 Här finns versioner där det vanliga bluetoothstöder är utbytt mot det nyare Fitness Machine Service (FTMS) protokollet, som också tillåter styrning av motstånd på de cyklar som stöder det.
 
-Fil för Raspberry Pi 4 finns [här][rpi4-ftms-v1]
-Fil för Raspberry Pi 3(+) finns [här][rpi3-ftms-v1]
+Fil för Raspberry Pi 4 finns [här][rpi4-ftms-v1]  
+Fil för Raspberry Pi 3(+) finns [här][rpi3-ftms-v1]  
 Fil för Raspberry Pi Zero W finns [här][rpi0w-ftms-v1]
 
 # Raspberry Pi 4
