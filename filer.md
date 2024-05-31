@@ -9,7 +9,7 @@ permalink: /filer/
 # Testversion med stöd för Bluetooth FTMS protokoll
 Här finns versioner där det vanliga bluetoothstöder är utbytt mot det nyare Fitness Machine Service (FTMS) protokollet, som också tillåter styrning av motstånd på de cyklar som stöder det.
 
-Fil för Raspberry Pi 4 finns [här][rpi4-ftms-v1]  
+Fil för Raspberry Pi 4 finns [här][rpi4-ftms-v20230515]  
 Fil för Raspberry Pi 3(+) finns [här][rpi3-ftms-v1]  
 Fil för Raspberry Pi Zero W finns [här][rpi0w-ftms-v1]
 
@@ -49,6 +49,7 @@ Aktuell version (3) för Windows 32-bit finns [här][win-32-v3].
 [rpi3-v3rc1]: http://linode.unixshell.se/monark/image-monark-raspberrypi3_v3-rc1.zip
 [rpi3-v3rc3]: http://linode.unixshell.se/monark/image-monark-raspberrypi3_v3-rc3.zip
 [rpi4-v1]: http://linode.unixshell.se/monark/image-monark-raspberrypi4_v1.zip
+[rpi4-ftms-v20230515]: http://linode.unixshell.se/monark/image-monark-ftms-raspberrypi4_v20230515.zip
 [rpi4-ftms-v1]: http://linode.unixshell.se/monark/image-monark-ftms-pi4_v1.zip
 [rpi3-ftms-v1]: http://linode.unixshell.se/monark/image-monark-ftms-pi3_v1.zip
 [rpi0w-ftms-v1]: http://linode.unixshell.se/monark/image-monark-ftms-pi0w_v1.zip
